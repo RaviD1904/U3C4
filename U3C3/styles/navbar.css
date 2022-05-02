@@ -1,0 +1,14 @@
+#navbar{
+    border: 1px solid blue;
+    display: flex;
+    justify-content: space-around;
+}
+input{
+    width: 250px;
+    height: 30px;
+    
+}
+#sidebar{
+    display: flex;
+    justify-content: space-around;
+}
